@@ -1,0 +1,13 @@
+dirs:
+  - chrome_driver
+  - config
+  - data
+  - logs
+  - reports
+  - test_case
+  - tools
+files:
+  - .gitignore
+  - run.py
+  - init_project.yaml
+  - README.md
